@@ -1,0 +1,17 @@
+Technical Analysis:
+
+Plot daily closing price trends per stock
+
+Identify highest volatility stock
+
+Volume vs price movement correlation
+
+Moving averages (7-day, 30-day)
+
+Business Insights:
+
+Best performing stock by average returns
+
+Days with abnormal volume spikes
+
+UP vs DOWN trend ratio per company
